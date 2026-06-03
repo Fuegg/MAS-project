@@ -47,4 +47,4 @@ java -cp "lib/jade.jar;src" jade.Boot -gui "seller1:project.SellerAgent;seller3:
 - Tested on Windows 11.
 - Sellers are assumed to have unlimited stock.
 - AI-assisted (BuyerAgent): trade-round correlation (`trade-*` IDs) and proposal reset between rounds (I encountered difficulties making this part functional).
-- 
+- Github link : https://github.com/Fuegg/MAS-project.git
